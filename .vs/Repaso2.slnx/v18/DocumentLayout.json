@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\migrations\\contextomodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:migrations\\contextomodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\migrations\\20261110063426_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:migrations\\20261110063426_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\components\\pages\\modelos\\modeloindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:components\\pages\\modelos\\modeloindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\components\\pages\\modelos\\modeloedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:components\\pages\\modelos\\modeloedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\components\\pages\\modelos\\modelocreate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:components\\pages\\modelos\\modelocreate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\extensors\\toastserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:extensors\\toastserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\services\\modeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:services\\modeloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|c:\\users\\willy\\onedrive\\escritorio\\repaso2\\repaso2\\context\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766E430C-196C-EE5E-91A4-512917DA44F5}|Repaso2.csproj|solutionrelative:context\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContextoModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Migrations\\ContextoModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ContextoModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Migrations\\ContextoModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ContextoModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:34:49.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20261110063426_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Migrations\\20261110063426_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261110063426_Inicial.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Migrations\\20261110063426_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20261110063426_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:34:26.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModeloIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\Modelos\\ModeloIndex.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Modelos\\ModeloIndex.razor",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\Modelos\\ModeloIndex.razor",
+              "RelativeToolTip": "Components\\Pages\\Modelos\\ModeloIndex.razor",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T06:31:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModeloEdit.razor",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\Modelos\\ModeloEdit.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Modelos\\ModeloEdit.razor",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\Modelos\\ModeloEdit.razor",
+              "RelativeToolTip": "Components\\Pages\\Modelos\\ModeloEdit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T06:30:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModeloCreate.razor",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\Modelos\\ModeloCreate.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Modelos\\ModeloCreate.razor",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\Modelos\\ModeloCreate.razor",
+              "RelativeToolTip": "Components\\Pages\\Modelos\\ModeloCreate.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T06:30:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T06:29:48.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T06:29:28.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T06:27:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:26:51.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToastServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Extensors\\ToastServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensors\\ToastServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Extensors\\ToastServiceExtensions.cs",
+              "RelativeToolTip": "Extensors\\ToastServiceExtensions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:25:44.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModeloService.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Services\\ModeloService.cs",
+              "RelativeDocumentMoniker": "Services\\ModeloService.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Services\\ModeloService.cs",
+              "RelativeToolTip": "Services\\ModeloService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:24:36.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Models\\Modelo.cs",
+              "RelativeDocumentMoniker": "Models\\Modelo.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Models\\Modelo.cs",
+              "RelativeToolTip": "Models\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:24:04.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Context\\Contexto.cs",
+              "RelativeDocumentMoniker": "Context\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Willy\\OneDrive\\Escritorio\\Repaso2\\Repaso2\\Context\\Contexto.cs",
+              "RelativeToolTip": "Context\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T06:23:34.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
